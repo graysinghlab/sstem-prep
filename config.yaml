@@ -1,0 +1,13 @@
+app:
+  timezone: America/New_York
+  title: "S-STEM Preparatory Phase \u2014 Dashboard"
+recipients:
+- calliert@gram.edu
+- rawalb@gram.edu
+- YOUR_EMAIL_HERE
+smtp:
+  host: smtp.gmail.com
+  password: YOUR_SMTP_PASSWORD
+  port: 465
+  use_ssl: true
+  username: YOUR_SMTP_USERNAME
