@@ -7,7 +7,7 @@ recipients:
 - daniellengrayphd@gmail.com
 smtp:
   host: smtp.gmail.com
-  password: YOUR_SMTP_PASSWORD
+  password: aomn albw lybb uhni
   port: 465
   use_ssl: true
   username: YOUR_SMTP_USERNAME
